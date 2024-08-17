@@ -34,7 +34,8 @@
 - Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
   
 ## Data
-- The data set that was used will be found here in this link:( https://drive.google.com/file/d/1PRI2NuJPBIk_P79ROy6C15OytN7F4PjD/view?usp=sharing )
+- The data set that was used for part 1 will be found here in this link:( https://drive.google.com/file/d/1uk8_KFIKkYKsR2ZoH4nbn1heX2OqDQUf/view?usp=sharing )
+- The data set that was used for part 2 and part 3 (GA_PSO) will be found here in this link:( https://drive.google.com/file/d/1PRI2NuJPBIk_P79ROy6C15OytN7F4PjD/view?usp=sharing )
 - There is also a metadata.txt file that explains the columns.
   
 ## References
