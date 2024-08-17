@@ -33,12 +33,10 @@
 - Python 3.x
 - Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
   
-##Data
+## Data
 - The data set that was used will be found here in this link:( https://drive.google.com/file/d/1PRI2NuJPBIk_P79ROy6C15OytN7F4PjD/view?usp=sharing )
-- Google Drive Link
-
-There is also a metadata.txt file that explains the columns.
-
+- There is also a metadata.txt file that explains the columns.
+  
 ## References
 All code and analysis are based on the tasks outlined in the assignments from the Data Analytics course at HTU.
  
