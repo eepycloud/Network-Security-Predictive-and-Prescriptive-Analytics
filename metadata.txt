@@ -1,0 +1,33 @@
+Event: It contains information about the operation performed on the traffic. It is represented by the value 1 for s (sending), 2 for r(receiving), 3 for f (forwarding), 4 for d (dropping), and 5 for N (Energy information).
+
+Time: The time of the event performed in the row.
+
+S_Node: Source node number.
+
+Node_id: The node number of the relevant node.
+
+Rest_Energy: The remaining energy of the relevant node.
+
+Mac_Type_Pck: MAC type of the packet.
+
+Source_IP_Port: Port number of the source node.
+
+Packet_Size: Forwarded packet size.
+
+TTL: The lifetime of the forwarded traffic in the network.
+
+Hop_Count: Number of nodes passed.
+
+Broadcast_ID: The ID number of the broadcast packets.
+
+Dest_Node_Num: ID of the target node.
+
+Dest_Seq_Num: Sequence number of the traffic forwarded to the destination.
+
+Src_Node_ID: Source node ID number.
+
+Src_Seq_Num: Source sequence number of traffic forwarded to destination.
+
+behaviour: if there attack or not.
+
+Class: Type of classified network traffic.
