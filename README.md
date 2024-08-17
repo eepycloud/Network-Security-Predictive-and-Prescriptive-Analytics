@@ -34,9 +34,9 @@
 - Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
   
 ## Data
-- The data set that was used for part 1 will be found here in this link:( https://drive.google.com/file/d/1uk8_KFIKkYKsR2ZoH4nbn1heX2OqDQUf/view?usp=sharing )
-- The data set that was used for part 2 and part 3 (GA_PSO) will be found here in this link:( https://drive.google.com/file/d/1PRI2NuJPBIk_P79ROy6C15OytN7F4PjD/view?usp=sharing )
-- There is also a metadata.txt file that explains the columns.
+- **The data set that was used for part 1 will be found here in this link:** [Download Here](https://drive.google.com/file/d/1uk8_KFIKkYKsR2ZoH4nbn1heX2OqDQUf/view?usp=sharing)
+- **The data set that was used for part 2 and part 3 (GA_PSO) will be found here in this link** [Download Here](https://drive.google.com/file/d/1PRI2NuJPBIk_P79ROy6C15OytN7F4PjD/view?usp=sharing)
+- **Metadata:** The `metadata.txt` file explains the columns and features used in the analysis.
   
 ## References
 All code and analysis are based on the tasks outlined in the assignments from the Data Analytics course at HTU.
